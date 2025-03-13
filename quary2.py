@@ -10,7 +10,7 @@ capitan = Jobs()
 capitan.team_leader =  1
 capitan.job = 'deployment of residential modules 1 and 2'
 capitan.work_size =  15
-capitan.collaborators =  2, 3
+capitan.collaborators =  '2, 3'
 capitan.start_date = datetime.datetime.now()
 capitan.is_finished = False
 
